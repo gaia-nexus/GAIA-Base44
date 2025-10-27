@@ -1,0 +1,17 @@
+# ====== GAIA-NEXUS ENV CONFIGURATION ======
+
+# --- Base44 ---
+BASE44_API_KEY=ed896c8bea20466bbc4430334ed02d95BASE44_PROJECT_ID=your_base44_project_id
+
+# --- Railway Deployment ---
+RAILWAY_TOKEN=rw_XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+RAILWAY_PROJECT_ID=your_railway_project_id
+
+# --- Docker Hub ---
+DOCKERHUB_USERNAME=your_dockerhub_username
+DOCKERHUB_TOKEN=dhp_XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+IMAGE_NAME=gaia-nexus
+
+# --- Monitoring / Logs (optional) ---
+SENTRY_DSN=https://examplePublicKey@o0.ingest.sentry.io/0
+LOG_LEVEL=info
